@@ -1,0 +1,97 @@
+[
+  {
+    "name": "_ga",
+    "value": "GA1.1.133626724.1744562933",
+    "domain": ".seagm.com",
+    "hostOnly": false,
+    "path": "/",
+    "secure": false,
+    "httpOnly": false,
+    "session": false,
+    "expirationDate": 1779123006.194362,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "CookieConsent",
+    "value": "{stamp:%2748zP2kz1bbqwGvcD+EM0BhYC+ki0WmB4D4uxcj1i0gkt1RH+f0v78g==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1744562938775%2Cregion:%27th%27}",
+    "domain": "www.seagm.com",
+    "hostOnly": true,
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "session": false,
+    "expirationDate": 1776098938,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "CustomerOnlineTime",
+    "value": "1744562943",
+    "domain": "www.seagm.com",
+    "hostOnly": true,
+    "path": "/",
+    "secure": false,
+    "httpOnly": false,
+    "session": false,
+    "expirationDate": 1744649343,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "CookieConsent",
+    "value": "{stamp:%27uYHw8sCdNKrPXBGKIYHdPFdDx6hSf1qN2y1PqSYWIuHoOZPrSqDbnQ==%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27explicit%27%2Cver:1%2Cutc:1744562960496%2Cregion:%27th%27}",
+    "domain": "member.seagm.com",
+    "hostOnly": true,
+    "path": "/",
+    "secure": true,
+    "httpOnly": false,
+    "session": false,
+    "expirationDate": 1776098960,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "forterToken",
+    "value": "e3715c00bb1b40cd94d25eddb0640f05_1744562960341__UDF43-m4_23ck_",
+    "domain": ".seagm.com",
+    "hostOnly": false,
+    "path": "/",
+    "secure": false,
+    "httpOnly": false,
+    "session": false,
+    "expirationDate": 1779122962,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "seagm_store_id",
+    "value": "maf37a1fe184dco4fo20vntsig",
+    "domain": ".seagm.com",
+    "hostOnly": false,
+    "path": "/",
+    "secure": true,
+    "httpOnly": true,
+    "session": true,
+    "sameSite": "no_restriction"
+  },
+  {
+    "name": "register_star_user",
+    "value": "84fe1d346b878a8c9e16970fdc393987",
+    "domain": "www.seagm.com",
+    "hostOnly": true,
+    "path": "/",
+    "secure": false,
+    "httpOnly": false,
+    "session": false,
+    "expirationDate": 1747155005.760889,
+    "sameSite": "unspecified"
+  },
+  {
+    "name": "_ga_PPNCESN4Z7",
+    "value": "GS1.1.1744562932.1.1.1744563006.59.0.682836426",
+    "domain": ".seagm.com",
+    "hostOnly": false,
+    "path": "/",
+    "secure": false,
+    "httpOnly": false,
+    "session": false,
+    "expirationDate": 1779123006.198191,
+    "sameSite": "unspecified"
+  }
+]
